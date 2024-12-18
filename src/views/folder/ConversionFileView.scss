@@ -1,0 +1,29 @@
+.conversion-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  
+    .header {
+      margin-bottom: 24px;
+      text-align: center;
+      color: #1976d2;
+    }
+  
+    .loader {
+      display: flex;
+      justify-content: center;
+      margin-top: 24px;
+    }
+  
+    .error-text {
+      margin-top: 24px;
+      text-align: center;
+      color: red;
+      font-weight: bold;
+    }
+  
+    .output-section {
+      margin-top: 32px;
+    }
+  }
+  
